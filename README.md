@@ -1,8 +1,8 @@
 # AdilsonSena.github.io
 Meu portfólio
-# Start da Carreira - Portfólio
+# Start da Minha Carreira FullStack - Portfólio
 
-Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
+Desenvolvendo um currículo/portfólio.
 
 Atualizando este repositório.
 
@@ -10,7 +10,7 @@ Atualizando este repositório.
 
 ### Estrutura de pastas
 
-- kenzie-academy_startnasuacarreira.png
+- startnaminhacarreira.png
 - README.md
 - dia1/
     - index.html
@@ -18,7 +18,7 @@ Atualizando este repositório.
         - img/
             - facebook-app-symbol.svg
             - github-big-logo.svg
-            - hudson.png
+            - adilson.png
             - instagram.svg
             - linkedin.svg
             - youtube.svg
@@ -39,9 +39,9 @@ Atualizando este repositório.
 
 ### O layout
 
-[Desktop](./kenzie-academy_startnasuacarreira.png)
+[Desktop](./sejaa_startnaminha_carreira.png)
 
-[Mobile](./kenzie-academy_startnasuacarreira-mobile.png)
+[Mobile](./sejaa_startnaminha_carreira-mobile.png)
 
 ## Documentação
 
