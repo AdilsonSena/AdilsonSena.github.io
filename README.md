@@ -1,10 +1,10 @@
 # AdilsonSena.github.io
 Meu portfólio
-# Start Sua Carreira - Portfólio
+# Start da Carreira - Portfólio
 
 Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
 
-Esse repositório será atualizado todos os dias, com as alterações feitas junto com vocês nas lives.
+Atualizando este repositório.
 
 ## O projeto
 
