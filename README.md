@@ -1,6 +1,6 @@
 # AdilsonSena.github.io
 Meu portfólio
-# Full Stack Developer - Portfólio
+# Full Stack Developer - javaScript - node.js
 
 Currículo/portfólio.
 
