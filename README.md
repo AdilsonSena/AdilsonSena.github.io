@@ -1,16 +1,14 @@
 # AdilsonSena.github.io
 Meu portfólio
-# Start da Minha Carreira FullStack - Portfólio
+# Full Stack Developer - Portfólio
 
-Desenvolvendo um currículo/portfólio.
-
-Atualizando este repositório.
+Currículo/portfólio.
 
 ## O projeto
 
 ### Estrutura de pastas
 
-- startnaminhacarreira.png
+- startFullStack.png
 - README.md
 - dia1/
     - index.html
