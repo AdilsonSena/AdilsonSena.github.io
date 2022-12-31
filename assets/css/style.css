@@ -1,10 +1,9 @@
 /*
-Theme Name: Start sua carreira
-Theme URI: http://www.startsuacarreira.com.br
-Author: Kenzie Academy BR
-Author URI: https://kenzie.com.br;
+Theme Name: Aperfeiçoando o Portfólio da minha carreira Dev
+Author: Adilson Sena Lima Barreto
+Author URI: portfolio-33rwosoar-adilsonsena.vercel.app
 Description: Descrição do thema.
-Version: 1.0
+Version: 1.2
 
 --------------------------------------------
 ESTRUTURA BASE
@@ -32,7 +31,7 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
 }
 
 .coluna{
-    flex-basis: 49%;
+    flex-basis: 48%;
 }
 
 :root{
